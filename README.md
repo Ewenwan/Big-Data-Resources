@@ -1,6 +1,6 @@
 # 大数据/数据挖掘/推荐系统/机器学习相关资源
 
-Share my personal resources 
+[awesome-bigdata](https://github.com/Ewenwan/awesome-bigdata)
 
 ## 视频
 
